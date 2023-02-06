@@ -1,0 +1,7 @@
+torch
+numpy
+sklearn
+seaborn
+pandas
+torchvision
+PIL
