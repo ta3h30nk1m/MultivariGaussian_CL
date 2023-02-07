@@ -1,5 +1,5 @@
 # MultivariGaussian_CL
-Code for paper 'Gradient Regularization with Multivariate Distri-bution of Previous Knowledge for Continual Learning', IDEAL2022
+Code for paper 'Gradient Regularization with Multivariate Distribution of Previous Knowledge for Continual Learning', IDEAL2022
 
 written by Taeheon Kim, Hyungjun Moon, Sungbae Cho
 
